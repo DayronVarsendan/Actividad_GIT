@@ -20,6 +20,10 @@ public class Actividad_GIT_Varsendan_Y_Crespo {
 		
 		int resultsub = 0;
 		
+		for (int i = 1; i < subArray.length; i++) { 
+			resultsub -= subArray[i]; 
+			}
+		
 		// User 3 fer la multiplicació dels elements de prodArray
 	}
 
