@@ -1,5 +1,7 @@
 package Actividad_GIT_Package;
 
+import java.util.Scanner;
+
 public class Actividad_GIT_Varsendan_Y_Crespo {
 
 	public static void main(String[] args) {
@@ -24,7 +26,13 @@ public class Actividad_GIT_Varsendan_Y_Crespo {
 		
 		// User 2 fer la resta dels elements de subArray
 		
+		int resultsub = 0;
 		
+		for (int i = 1; i < subArray.length; i++) { 
+			resultsub -= subArray[i]; 
+			}
+		
+		System.out.println("El resultado de la resta es: " + resultsub);
 		
 		// User 3 fer la multiplicació dels elements de prodArray
 	}
