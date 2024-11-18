@@ -22,6 +22,7 @@ public class Actividad_GIT_Varsendan_Y_Crespo {
 			resultadoSUM +=  sumArray [i];
 		}
 		
+		System.out.print("El resultado de la suma es: " + resultadoSUM);
 		
 		// User 2 fer la resta dels elements de subArray
 		
