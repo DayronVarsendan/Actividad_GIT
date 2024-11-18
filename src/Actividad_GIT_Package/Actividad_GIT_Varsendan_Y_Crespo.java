@@ -12,8 +12,9 @@ public class Actividad_GIT_Varsendan_Y_Crespo {
 		
 		// User 1 fer la suma dels elements de sumArray
 		
-		
-		
+		int resultadoSUM = 0;
+
+
 		// User 2 fer la resta dels elements de subArray
 		
 		
