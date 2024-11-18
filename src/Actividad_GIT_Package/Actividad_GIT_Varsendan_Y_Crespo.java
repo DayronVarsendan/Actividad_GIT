@@ -14,7 +14,13 @@ public class Actividad_GIT_Varsendan_Y_Crespo {
 		
 		int resultadoSUM = 0;
 
-
+		for(int i = 0;i < 5; i++) {
+			
+			
+			resultadoSUM +=  sumArray [i];
+		}
+		
+		
 		// User 2 fer la resta dels elements de subArray
 		
 		
