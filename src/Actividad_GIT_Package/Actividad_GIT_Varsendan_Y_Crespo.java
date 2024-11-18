@@ -1,5 +1,7 @@
 package Actividad_GIT_Package;
 
+import java.util.Scanner;
+
 public class Actividad_GIT_Varsendan_Y_Crespo {
 
 	public static void main(String[] args) {
