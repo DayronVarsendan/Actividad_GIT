@@ -18,7 +18,7 @@ public class Actividad_GIT_Varsendan_Y_Crespo {
 		
 		// User 2 fer la resta dels elements de subArray
 		
-		
+		int resultsub = 0;
 		
 		// User 3 fer la multiplicació dels elements de prodArray
 	}
