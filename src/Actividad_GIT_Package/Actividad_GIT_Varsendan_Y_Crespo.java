@@ -24,6 +24,8 @@ public class Actividad_GIT_Varsendan_Y_Crespo {
 			resultsub -= subArray[i]; 
 			}
 		
+		System.out.println("El resultado de la resta es: " + resultsub);
+		
 		// User 3 fer la multiplicació dels elements de prodArray
 	}
 
