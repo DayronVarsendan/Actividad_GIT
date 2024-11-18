@@ -18,9 +18,9 @@ public class Actividad_GIT_Varsendan_Y_Crespo {
 		
 		// User 2 fer la resta dels elements de subArray
 		
-		int resultsub = 0;
+		int resultsub = 785675;
 		
-		for (int i = 1; i < subArray.length; i++) { 
+		for (int i = 1; i < 5; i++) { 
 			resultsub -= subArray[i]; 
 			}
 		
