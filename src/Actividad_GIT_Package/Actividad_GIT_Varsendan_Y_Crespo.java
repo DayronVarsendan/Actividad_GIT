@@ -14,7 +14,15 @@ public class Actividad_GIT_Varsendan_Y_Crespo {
 		
 		// User 1 fer la suma dels elements de sumArray
 		
+		int resultadoSUM = 0;
+
+		for(int i = 0;i < 5; i++) {
+			
+			
+			resultadoSUM +=  sumArray [i];
+		}
 		
+		System.out.print("El resultado de la suma es: " + resultadoSUM);
 		
 		// User 2 fer la resta dels elements de subArray
 		
